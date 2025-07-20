@@ -40,5 +40,5 @@ Using Pandas, Seaborn, and Matplotlib, this EDA explores key factors influencing
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/titanic-eda.git
+   git clone https://github.com/yourusername/EDA-Analysis.git
    cd titanic-eda
